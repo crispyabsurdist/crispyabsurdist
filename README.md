@@ -31,7 +31,7 @@ class About extends Me
     public function TLDR(): array
     {
         return [
-            'tldr' => [
+            'data' => [
 	    	'name' 	    => 'Markus Hedenborn',
                 'country'   => 'Sweden',
 		'languages' => ['Swedish', 'English'],
