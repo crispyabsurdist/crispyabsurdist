@@ -18,13 +18,13 @@ class About extends Me
     public function getCurrentKnowledge(): array
     {
         return [
-            PHP::class,
+            Php::class,
             JavaScript::class,
             Laravel::class,
             TailwindCss::class,
-            AWS::class,
-						SCSS::class,
-						SQL::class,
+            Aws::class,
+	    Scss::class,
+	    Sql::class,
         ];
     }
 
@@ -32,11 +32,11 @@ class About extends Me
     {
         return [
             'tldr' => [
-								'name' => 'Markus Hedenborn',
+	    	'name' => 'Markus Hedenborn',
                 'country' => 'Sweden',
-								'languages' => [Swedish, English],
+		'languages' => [Swedish, English],
                 'ADHD' => true,
-								'email' => 'lc19mj4x5@mozmail.com'
+		'email' => 'lc19mj4x5@mozmail.com'
             ]
         ];
     }
