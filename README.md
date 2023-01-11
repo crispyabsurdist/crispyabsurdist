@@ -9,7 +9,7 @@ class About extends Me
     {
         return [
             'workplace' => [
-                'company' => 'Triggerfish',
+                'company'  => 'Triggerfish',
                 'position' => 'senior web developer'         
             ]
         ];
@@ -32,11 +32,11 @@ class About extends Me
     {
         return [
             'tldr' => [
-	    	'name' => 'Markus Hedenborn',
-                'country' => 'Sweden',
+	    	'name' 	    => 'Markus Hedenborn',
+                'country'   => 'Sweden',
 		'languages' => [Swedish, English],
-                'ADHD' => true,
-		'email' => 'lc19mj4x5@mozmail.com'
+                'ADHD'      => true,
+		'email'     => 'lc19mj4x5@mozmail.com'
             ]
         ];
     }
