@@ -27,7 +27,7 @@ class About extends Me
         ];
     }
 
-    public function TLDR(): string
+    public function TLDR(): array
     {
         return [
             'tldr' => [
