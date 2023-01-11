@@ -1,3 +1,4 @@
+```php
 <?php
 
 namespace MarkusHedenborn;
@@ -40,3 +41,4 @@ class About extends Me
         ];
     }
 }
+```
