@@ -34,7 +34,7 @@ class About extends Me
             'tldr' => [
 	    	'name' 	    => 'Markus Hedenborn',
                 'country'   => 'Sweden',
-		'languages' => [Swedish, English],
+		'languages' => ['Swedish', 'English'],
                 'ADHD'      => true,
 		'email'     => 'lc19mj4x5@mozmail.com'
             ]
