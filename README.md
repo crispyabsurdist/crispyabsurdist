@@ -19,6 +19,7 @@ class About extends Me
     {
         return [
             Php::class,
+	    Laravel::class,
             JavaScript::class,
             Laravel::class,
             TailwindCss::class,
