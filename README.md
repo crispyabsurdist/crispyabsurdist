@@ -18,17 +18,17 @@ class About extends Me
     public function getCurrentKnowledge(): array
     {
         return [
-		Php::class,
-	   	Laravel::class,
+			Php::class,
+	   		Laravel::class,
         	JavaScript::class,
-		Laravel::class,
-		TailwindCss::class,
-		Aws::class,
+			Laravel::class,
+			TailwindCss::class,
+			Aws::class,
 	    	Scss::class,
 	    	Sql::class,
-		Devops::class,
-		Netsec::class,
-		Scripting::class
+			Devops::class,
+			Netsec::class,
+			Scripting::class
         ];
     }
 
