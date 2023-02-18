@@ -10,7 +10,8 @@ class About extends Me
         return [
             'workplace' => [
                 'company'  => 'Triggerfish',
-                'position' => 'senior web developer'         
+                'position' => 'senior web developer'
+		'location' => 'remote'
             ]
         ];
     }
