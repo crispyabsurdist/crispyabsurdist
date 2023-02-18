@@ -11,7 +11,7 @@ class About extends Me
             'workplace' => [
                 'company'  => 'Triggerfish',
                 'position' => 'senior web developer'
-		'location' => 'remote'
+				'location' => 'remote'
             ]
         ];
     }
