@@ -19,13 +19,13 @@ class About extends Me
     {
         return [
             Php::class,
-	    Laravel::class,
-            JavaScript::class,
-            Laravel::class,
+	    	Laravel::class,
+        	JavaScript::class,
+        	Laravel::class,
             TailwindCss::class,
             Aws::class,
-	    Scss::class,
-	    Sql::class,
+	    	Scss::class,
+	    	Sql::class,
         ];
     }
 
@@ -34,10 +34,10 @@ class About extends Me
         return [
             'data' => [
 	    	'name' 	    => 'Markus Hedenborn',
-                'country'   => 'Sweden',
-		'languages' => ['Swedish', 'English'],
-                'ADHD'      => true,
-		'email'     => 'lc19mj4x5@mozmail.com'
+            'country'   => 'Sweden',
+			'languages' => ['Swedish', 'English'],
+            'ADHD'      => true,
+			'email'     => 'lc19mj4x5@mozmail.com'
             ]
         ];
     }
