@@ -20,12 +20,12 @@ class About extends Me
     {
         return [
 			Php::class,
-	   		Laravel::class,
-        	JavaScript::class,
+			Laravel::class,
+			JavaScript::class,
 			Laravel::class,
 			TailwindCss::class,
 			Aws::class,
-	    	Scss::class,
+			Scss::class,
 	    	Sql::class,
 			Devops::class,
 			Netsec::class,
