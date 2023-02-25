@@ -11,7 +11,7 @@ class About extends Me
             'workplace' => [
                 'company'  => 'Triggerfish',
                 'position' => 'senior web developer'
-				'location' => 'remote'
+		'location' => 'remote'
             ]
         ];
     }
@@ -26,7 +26,7 @@ class About extends Me
 			TailwindCss::class,
 			Aws::class,
 			Scss::class,
-	    	Sql::class,
+			Sql::class,
 			Devops::class,
 			Netsec::class,
 			Scripting::class
