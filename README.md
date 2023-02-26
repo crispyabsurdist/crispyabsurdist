@@ -37,11 +37,11 @@ class About extends Me
     {
         return [
             'data' => [
-				'name' 	    => 'Markus Hedenborn',
-				'country'   => 'Sweden',
-				'languages' => ['Swedish', 'English'],
-				'ADHD'      => true,
-				'email'     => 'lc19mj4x5@mozmail.com'
+		'name' 	    => 'Markus Hedenborn',
+		'country'   => 'Sweden',
+		'languages' => ['Swedish', 'English'],
+		'ADHD'      => true,
+		'email'     => 'lc19mj4x5@mozmail.com'
             ]
         ];
     }
